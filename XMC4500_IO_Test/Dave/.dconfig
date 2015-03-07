@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProjectConfig>
+    <CodeGenerate>
+        <JETFileMap/>
+    </CodeGenerate>
+    <ResourceReserve/>
+    <Solver>
+        <SolverBndMap>
+            <BindMap MUri="port/p/1/pad/8" Proxy="app/io004/1/pin"/>
+            <BindMap MUri="port/p/1/pad/6" Proxy="app/io004/0/pin"/>
+        </SolverBndMap>
+    </Solver>
+</ProjectConfig>

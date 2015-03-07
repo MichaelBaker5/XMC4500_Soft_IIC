@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Cache>
+    <TemplateCaches>
+        <File genName="MULTIPLEXER.c" genPath="Dave\Generated\src\DAVESupport\MULTIPLEXER.c" jetPath="DAVESUPPORT/1.0.44/Templates/MUX_C.jet" location="bin\CodeGenerator\mux_c_template.class"/>
+        <File genName="MOTORLIB.c" genPath="Dave\Generated\src\LIBS\MOTORLIB.c" jetPath="LIBS/1.0.28/Templates/MOTORLIBc.jet" location="bin\CodeGenerator\motorlibc_template.class"/>
+        <File genName="MOTORLIB.h" genPath="Dave\Generated\inc\LIBS\MOTORLIB.h" jetPath="LIBS/1.0.28/Templates/MOTORLIBh.jet" location="bin\CodeGenerator\motorlibh_template.class"/>
+        <File genName="IO004_Conf.c" genPath="Dave\Generated\src\IO004\IO004_Conf.c" jetPath="IO004/1.0.22/Templates/IO004_Confc.jet" location="bin\CodeGenerator\io004_confc_template.class"/>
+        <File genName="MULTIPLEXER.h" genPath="Dave\Generated\inc\DAVESupport\MULTIPLEXER.h" jetPath="DAVESUPPORT/1.0.44/Templates/MUX_H.jet" location="bin\CodeGenerator\mux_h_template.class"/>
+        <File genName="IO004_Conf.h" genPath="Dave\Generated\inc\IO004\IO004_Conf.h" jetPath="IO004/1.0.22/Templates/IO004_Confh.jet" location="bin\CodeGenerator\io004_confh_template.class"/>
+        <File genName="DAVE3.c" genPath="Dave\Generated\src\DAVESupport\DAVE3.c" jetPath="DAVESUPPORT/1.0.44/Templates/DAVE3_C.jet" location="bin\CodeGenerator\dave3_c_template.class"/>
+        <File genName="LIBS.h" genPath="Dave\Generated\inc\LIBS\LIBS.h" jetPath="LIBS/1.0.28/Templates/LIBSh.jet" location="bin\CodeGenerator\libsh_template.class"/>
+        <File genName="IO004.c" genPath="Dave\Generated\src\IO004\IO004.c" jetPath="IO004/1.0.22/Templates/IO004c.jet" location="bin\CodeGenerator\io004c_template.class"/>
+        <File genName="DAVE3.h" genPath="Dave\Generated\inc\DAVESupport\DAVE3.h" jetPath="DAVESUPPORT/1.0.44/Templates/DAVE3_H.jet" location="bin\CodeGenerator\dave3_h_template.class"/>
+    </TemplateCaches>
+</Cache>

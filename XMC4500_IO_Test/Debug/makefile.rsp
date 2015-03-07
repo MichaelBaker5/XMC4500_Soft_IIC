@@ -1,0 +1,10 @@
+Startup/startup_XMC4500.o
+Startup/system_XMC4500.o
+Main.o
+Lib/System_LibcStubs.o
+Dave/Generated/src/LIBS/CCU8PWMLIB.o
+Dave/Generated/src/LIBS/MOTORLIB.o
+Dave/Generated/src/IO004/IO004.o
+Dave/Generated/src/IO004/IO004_Conf.o
+Dave/Generated/src/DAVESupport/DAVE3.o
+Dave/Generated/src/DAVESupport/MULTIPLEXER.o

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project MotherSystem_Version="" Name="XMC4500_IO_Test" Path="E:\Project_Double_Wheel_Self_Balance_Car\Merge\XMC4500_IO_Test">
+    <COMPILER>
+        <Name>ARM-GCC</Name>
+        <Version/>
+        <Memory_Model/>
+    </COMPILER>
+    <DEVICE>
+        <Sales_Code>XMC4500-F100x1024-AB</Sales_Code>
+        <Description/>
+    </DEVICE>
+    <Generated_Files>
+        <Source_Files>
+            <Source_File>
+                <File_Name>DAVE3.c</File_Name>
+                <Path>\Dave\Generated\src\DAVESupport\DAVE3.c</Path>
+                <Type>C File</Type>
+            </Source_File>
+            <Source_File>
+                <File_Name>MULTIPLEXER.c</File_Name>
+                <Path>\Dave\Generated\src\DAVESupport\MULTIPLEXER.c</Path>
+                <Type>C File</Type>
+            </Source_File>
+            <Source_File>
+                <File_Name>IO004.c</File_Name>
+                <Path>\Dave\Generated\src\IO004\IO004.c</Path>
+                <Type>C File</Type>
+            </Source_File>
+            <Source_File>
+                <File_Name>IO004_Conf.c</File_Name>
+                <Path>\Dave\Generated\src\IO004\IO004_Conf.c</Path>
+                <Type>C File</Type>
+            </Source_File>
+            <Source_File>
+                <File_Name>CCU8PWMLIB.c</File_Name>
+                <Path>\Dave\Generated\src\LIBS\CCU8PWMLIB.c</Path>
+                <Type>C File</Type>
+            </Source_File>
+            <Source_File>
+                <File_Name>MOTORLIB.c</File_Name>
+                <Path>\Dave\Generated\src\LIBS\MOTORLIB.c</Path>
+                <Type>C File</Type>
+            </Source_File>
+        </Source_Files>
+        <Header_Files>
+            <Header_File>
+                <File_Name>DAVE3.h</File_Name>
+                <Path>\Dave\Generated\inc\DAVESupport\DAVE3.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>MULTIPLEXER.h</File_Name>
+                <Path>\Dave\Generated\inc\DAVESupport\MULTIPLEXER.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>DBG001.h</File_Name>
+                <Path>\Dave\Generated\inc\DBG001\DBG001.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>IO004.h</File_Name>
+                <Path>\Dave\Generated\inc\IO004\IO004.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>IO004_Conf.h</File_Name>
+                <Path>\Dave\Generated\inc\IO004\IO004_Conf.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>CCU8PWMLIB.h</File_Name>
+                <Path>\Dave\Generated\inc\LIBS\CCU8PWMLIB.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>LIBS.h</File_Name>
+                <Path>\Dave\Generated\inc\LIBS\LIBS.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>MOTORLIB.h</File_Name>
+                <Path>\Dave\Generated\inc\LIBS\MOTORLIB.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>types.h</File_Name>
+                <Path>\Dave\Generated\inc\LIBS\types.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+            <Header_File>
+                <File_Name>MOTORLIBS.h</File_Name>
+                <Path>\Dave\Generated\inc\MOTORLIBS\MOTORLIBS.h</Path>
+                <Type>H File</Type>
+            </Header_File>
+        </Header_Files>
+        <Library_Files/>
+        <Assembly_Files/>
+    </Generated_Files>
+    <Include_Path>
+        <Path>\Dave\Generated\inc\LIBS</Path>
+        <Path>\Dave\Generated\inc\MOTORLIBS</Path>
+        <Path>\Dave\Generated\inc\DAVESupport</Path>
+    </Include_Path>
+    <Preprocessor_Symbols>
+        <Assembler_Symbol>DAVE_CE=</Assembler_Symbol>
+        <Assembler_Symbol>UC_ID=4502003</Assembler_Symbol>
+        <Compiler_Symbol>DAVE_CE=</Compiler_Symbol>
+        <Compiler_Symbol>UC_ID=4502003</Compiler_Symbol>
+    </Preprocessor_Symbols>
+</Project>
